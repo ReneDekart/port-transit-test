@@ -1,0 +1,8 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+@import 'bootstrap-vue/dist/bootstrap-vue.css';
+
+.clipboard_icon {
+  &:hover{
+    cursor: pointer;
+  }
+}
